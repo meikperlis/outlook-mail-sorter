@@ -9,6 +9,7 @@ token_cache.json
 topic_memory.json
 logs/
 local.settings.json
+.env.local
 
 # Editor / Betriebssystem
 .vscode/
