@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OUTLOOK_SORTER_CLIENT_ID": "DEINE-CLIENT-ID",
+    "OUTLOOK_SORTER_AUTHORITY": "https://login.microsoftonline.com/consumers",
+    "OUTLOOK_SORTER_STATE_CONTAINER": "outlook-sorter-state",
+    "OUTLOOK_SORTER_SCHEDULE": "0 */10 * * * *",
+    "CREATE_MISSING_FOLDERS": "false",
+    "MOVE_MESSAGES": "false"
+  }
+}

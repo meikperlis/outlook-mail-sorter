@@ -1,0 +1,4 @@
+msal>=1.28.0
+requests>=2.31.0
+azure-functions>=1.21.0
+azure-storage-blob>=12.25.0

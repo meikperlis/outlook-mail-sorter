@@ -1,0 +1,17 @@
+.venv/
+.python_packages/
+__pycache__/
+*.pyc
+
+# Lokale Geheimnisse und personenbezogene Zustände
+.token_cache.json
+token_cache.json
+topic_memory.json
+logs/
+local.settings.json
+
+# Editor / Betriebssystem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
